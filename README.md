@@ -5,3 +5,4 @@ If this superconductor is confirmed, a huge wave coming to the world
 
 LK99 token is a meme coin that shows respect to LK99 superconductor
 
+contract address: 0x4e2037cddae53ea24a7dd34597e565a580dadb7b
